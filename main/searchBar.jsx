@@ -7,6 +7,7 @@ function searchBar() {
         <li>ram</li>
         <li>reddy</li>
         <li>gangireddy</li>
+        <li>Vamsi</li>
       </ul>
     </div>
   )
